@@ -6,7 +6,6 @@ bot = TwitterBot()
 
 @sched.interval_schedule(minutes=150)
 def timed_job():
-    print 'This job is run every minute.'
     bot.send_tweet()
 
 sched.start()
