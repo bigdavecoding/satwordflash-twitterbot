@@ -1,5 +1,6 @@
 from apscheduler.scheduler import Scheduler
 from twitterbot import TwitterBot
+import time
 
 sched = Scheduler()
 bot = TwitterBot()
@@ -11,5 +12,5 @@ def timed_job():
 sched.start()
 
 while True:
-    pass
+    time.sleep(1)
 
