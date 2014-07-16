@@ -1,669 +1,4687 @@
-[{"word": "Accolade"},
-{"word": "Allusion"},
-{"word": "Ambivalence"},
-{"word": "Ambivalent"},
-{"word": "Analogy"},
-{"word": "Anecdote"},
-{"word": "Anomalous"},
-{"word": "Apparition"},
-{"word": "Aspersion"},
-{"word": "Belligerence"},
-{"word": "Bombastic"},
-{"word": "Candid"},
-{"word": "Capricious"},
-{"word": "Cherished"},
-{"word": "Cliche"},
-{"word": "Ambivalent"},
-{"word": "Apathy"},
-{"word": "Autonomy"},
-{"word": "Benevolent"},
-{"word": "Blanched"},
-{"word": "Bolster"},
-{"word": "Bucolic"},
-{"word": "Callous"},
-{"word": "Cantankerous"},
-{"word": "Capricious"},
-{"word": "Chicanery"},
-{"word": "Adroit"},
-{"word": "Agnostic"},
-{"word": "Ameliorating"},
-{"word": "Arboreal"},
-{"word": "Ascertain"},
-{"word": "Barrage"},
-{"word": "Belabor"},
-{"word": "Brevity"},
-{"word": "Cacophony"},
-{"word": "Censured"},
-{"word": "Circumvent"},
-{"word": "Advocate"},
-{"word": "Ambiguous"},
-{"word": "Animosity"},
-{"word": "Boorishness"},
-{"word": "Censure"},
-{"word": "Concord"},
-{"word": "Conflagration"},
-{"word": "Consecrated"},
-{"word": "Consummate"},
-{"word": "Contagious"},
-{"word": "Abstruse"},
-{"word": "Acumen"},
-{"word": "Adroit"},
-{"word": "Anachronistic"},
-{"word": "Arcane"},
-{"word": "Autonomy"},
-{"word": "Belittlers"},
-{"word": "Byzantine"},
-{"word": "Consecration"},
-{"word": "Abashed"},
-{"word": "Allusion"},
-{"word": "Ambivalent"},
-{"word": "Analogy"},
-{"word": "Anecdote"},
-{"word": "Annihilated"},
-{"word": "Anomalies"},
-{"word": "Antipodes"},
-{"word": "Apprehension"},
-{"word": "Arduous"},
-{"word": "Aberration"},
-{"word": "Abstruse"},
-{"word": "Affability"},
-{"word": "Affluence"},
-{"word": "Alleviation"},
-{"word": "Amalgamation"},
-{"word": "Amassed"},
-{"word": "Arcane"},
-{"word": "Augmenting"},
-{"word": "Belied"},
-{"word": "Alacrity"},
-{"word": "Amiable"},
-{"word": "Apathetic"},
-{"word": "Bypasses"},
-{"word": "Capricious"},
-{"word": "Censures"},
-{"word": "Conciliatory"},
-{"word": "Convergence"},
-{"word": "Cumulative"},
-{"word": "Deferment"},
-{"word": "Deliberation"},
-{"word": "Conception"},
-{"word": "Convoluted"},
-{"word": "Credence"},
-{"word": "Cryptic"},
-{"word": "Currency"},
-{"word": "Decorous"},
-{"word": "Denunciation"},
-{"word": "Derailed"},
-{"word": "Derivative"},
-{"word": "Despotic"},
-{"word": "Churlish"},
-{"word": "Cohesive"},
-{"word": "Concur"},
-{"word": "Cryptic"},
-{"word": "Decimation"},
-{"word": "Deft"},
-{"word": "Delinquency"},
-{"word": "Depravity"},
-{"word": "Desolate"},
-{"word": "Devoid of"},
-{"word": "Didactic"},
-{"word": "Coerced"},
-{"word": "Condoning"},
-{"word": "Congenial"},
-{"word": "Demagogues"},
-{"word": "Disparaged"},
-{"word": "Docile"},
-{"word": "Eclectic"},
-{"word": "Elitist"},
-{"word": "Elusive"},
-{"word": "Cursory"},
-{"word": "Dalliance"},
-{"word": "Deleterious"},
-{"word": "Disparaging"},
-{"word": "Dubious"},
-{"word": "Equitable"},
-{"word": "Eulogy"},
-{"word": "Fastidious"},
-{"word": "Fidelity"},
-{"word": "Formidable"},
-{"word": "Corollary"},
-{"word": "Curtail"},
-{"word": "Debunkers"},
-{"word": "Devious"},
-{"word": "Didactic"},
-{"word": "Effacement"},
-{"word": "Egotistical"},
-{"word": "Embodiment"},
-{"word": "Epitome"},
-{"word": "Articulate"},
-{"word": "Assuage"},
-{"word": "Auspicious"},
-{"word": "Avuncular"},
-{"word": "Axiom"},
-{"word": "Banal"},
-{"word": "Bellicose"},
-{"word": "Benign"},
-{"word": "Bereft of"},
-{"word": "Bifurcation"},
-{"word": "Benevolent"},
-{"word": "Callous"},
-{"word": "Candid"},
-{"word": "Coalition"},
-{"word": "Concordance"},
-{"word": "Conflagration"},
-{"word": "Copious"},
-{"word": "Dearth"},
-{"word": "Debacle"},
-{"word": "Delineates"},
-{"word": "Derelict"},
-{"word": "Discrepancy"},
-{"word": "Embittered"},
-{"word": "Encroaching"},
-{"word": "Eradicate"},
-{"word": "Exacerbates"},
-{"word": "Exasperation"},
-{"word": "Exorbitant"},
-{"word": "Detritus"},
-{"word": "Diaphanous"},
-{"word": "Dictum"},
-{"word": "Dilettante"},
-{"word": "Disdained"},
-{"word": "Dispassionate"},
-{"word": "Dowager"},
-{"word": "Dubious"},
-{"word": "Egalitarian"},
-{"word": "Disingenuous"},
-{"word": "Dispassionate"},
-{"word": "Disposition"},
-{"word": "Dissent"},
-{"word": "Effusive"},
-{"word": "Endorse"},
-{"word": "Enigma"},
-{"word": "Enumerate"},
-{"word": "Empiric"},
-{"word": "Endorsed"},
-{"word": "Envisioning"},
-{"word": "Extolled"},
-{"word": "Foster"},
-{"word": "Furtiveness"},
-{"word": "Gluttonous"},
-{"word": "Indictment"},
-{"word": "Indigenous"},
-{"word": "Futile"},
-{"word": "Futility"},
-{"word": "Holistic"},
-{"word": "Idiosyncratic"},
-{"word": "Ineffable"},
-{"word": "Infelicity"},
-{"word": "Integrity"},
-{"word": "Intermittent"},
-{"word": "Judicious"},
-{"word": "Esoteric"},
-{"word": "Extrapolated"},
-{"word": "Foster"},
-{"word": "Inane"},
-{"word": "Incoherence"},
-{"word": "Inconspicuous"},
-{"word": "Indiscriminate"},
-{"word": "Ingenuous"},
-{"word": "Insolence"},
-{"word": "Insurrectionists"},
-{"word": "Blatantly"},
-{"word": "Cacophonous"},
-{"word": "Cantankerous"},
-{"word": "Captivating"},
-{"word": "Chided"},
-{"word": "Clairvoyant"},
-{"word": "Coddled"},
-{"word": "Comely"},
-{"word": "Complacent"},
-{"word": "Disarming"},
-{"word": "Disillusioned"},
-{"word": "Disparaging"},
-{"word": "Embellished"},
-{"word": "Empathetic"},
-{"word": "Encompassed"},
-{"word": "Endorsement"},
-{"word": "Entourage"},
-{"word": "Equanimity"},
-{"word": "Eradicating"},
-{"word": "Flabbergasted"},
-{"word": "Foil for"},
-{"word": "Frugal"},
-{"word": "Glacial"},
-{"word": "Grimy"},
-{"word": "Inconsequential"},
-{"word": "Indiscernible"},
-{"word": "Infusion"},
-{"word": "Integrity"},
-{"word": "Jaded"},
-{"word": "Juxtaposition"},
-{"word": "Elicit"},
-{"word": "Elliptical"},
-{"word": "Epitomizes"},
-{"word": "Equivocate"},
-{"word": "Evasiveness"},
-{"word": "Explicitly"},
-{"word": "Foraging"},
-{"word": "Hypothetical"},
-{"word": "Iconoclast"},
-{"word": "Idiosyncratic"},
-{"word": "Imponderable"},
-{"word": "Ephemeral"},
-{"word": "Erroneous"},
-{"word": "Erudition"},
-{"word": "Esoteric"},
-{"word": "Fabrication"},
-{"word": "Facetious"},
-{"word": "Factions"},
-{"word": "Flotsam"},
-{"word": "Fostered"},
-{"word": "Hackneyed"},
-{"word": "Harbored"},
-{"word": "Irreproachable"},
-{"word": "Knack"},
-{"word": "Libelous"},
-{"word": "Naivet\u00e9"},
-{"word": "Nihilism"},
-{"word": "Paucity"},
-{"word": "Penchant"},
-{"word": "Perquisites"},
-{"word": "Phobic"},
-{"word": "Legitimate"},
-{"word": "Mercenary"},
-{"word": "Meticulous"},
-{"word": "Petulant"},
-{"word": "Polarized"},
-{"word": "Pragmatism"},
-{"word": "Presumptive"},
-{"word": "Propensity"},
-{"word": "Prosaic"},
-{"word": "Intemperance"},
-{"word": "Irreverence"},
-{"word": "Jeopardize"},
-{"word": "Lackadaisical"},
-{"word": "Lucid"},
-{"word": "Magnanimity"},
-{"word": "Multifarious"},
-{"word": "Nefarious"},
-{"word": "Onerous"},
-{"word": "Conducive to"},
-{"word": "Convivial"},
-{"word": "Cornucopia"},
-{"word": "Cosmopolitan"},
-{"word": "Counterfeiter"},
-{"word": "Decipher"},
-{"word": "Deferential"},
-{"word": "Deterrent"},
-{"word": "Dichotomies"},
-{"word": "Diffident"},
-{"word": "Esoteric"},
-{"word": "Exacerbated"},
-{"word": "Excised"},
-{"word": "Exotic"},
-{"word": "Faction"},
-{"word": "Finagle"},
-{"word": "Grating"},
-{"word": "Gratuitous"},
-{"word": "Hackneyed"},
-{"word": "Insightful"},
-{"word": "Insolence"},
-{"word": "Lithe"},
-{"word": "Miffed"},
-{"word": "Mitigator"},
-{"word": "Modicum"},
-{"word": "Negate"},
-{"word": "Nondescript"},
-{"word": "Penurious"},
-{"word": "Phlegmatic"},
-{"word": "Razing"},
-{"word": "Indecorous"},
-{"word": "Indigence"},
-{"word": "Inept"},
-{"word": "Inherent"},
-{"word": "Intricate"},
-{"word": "Irrefutable"},
-{"word": "Jingoism"},
-{"word": "Jubilant"},
-{"word": "Judicious"},
-{"word": "Hodgepodge"},
-{"word": "Hypothetical"},
-{"word": "Impetuous"},
-{"word": "Implacable"},
-{"word": "Impugned"},
-{"word": "Incorrigible"},
-{"word": "Indigenous"},
-{"word": "Ineffable"},
-{"word": "Irascible"},
-{"word": "Pilfer"},
-{"word": "Pliant"},
-{"word": "Predilection"},
-{"word": "Presumption"},
-{"word": "Profundity"},
-{"word": "Quixotic"},
-{"word": "Reclusive"},
-{"word": "Rehash"},
-{"word": "Repertoire"},
-{"word": "Repertory"},
-{"word": "Quelled"},
-{"word": "Regressive"},
-{"word": "Remiss"},
-{"word": "Rhetoric"},
-{"word": "Sedulous"},
-{"word": "Sermonized"},
-{"word": "Shroud"},
-{"word": "Steadfastness"},
-{"word": "Temporize"},
-{"word": "Opportunism"},
-{"word": "Ornate"},
-{"word": "Precursor"},
-{"word": "Proponents"},
-{"word": "Resolute"},
-{"word": "Sanctity"},
-{"word": "Seditious"},
-{"word": "Slipshod"},
-{"word": "Solicitousness"},
-{"word": "Digression"},
-{"word": "Discriminating"},
-{"word": "Docile"},
-{"word": "Elite"},
-{"word": "Equitable"},
-{"word": "Equivocal"},
-{"word": "Exhilarating"},
-{"word": "Fathom"},
-{"word": "Fervent"},
-{"word": "Intrigued"},
-{"word": "Intuition"},
-{"word": "Languid"},
-{"word": "Lobby"},
-{"word": "Lucid"},
-{"word": "Marred"},
-{"word": "Meager"},
-{"word": "Monotonous"},
-{"word": "Recrimination"},
-{"word": "Reprieve"},
-{"word": "Rousing"},
-{"word": "Salvageable"},
-{"word": "Scouring"},
-{"word": "Secluded"},
-{"word": "Solace"},
-{"word": "Squelch"},
-{"word": "Stifling"},
-{"word": "Alleviate"},
-{"word": "Amalgam"},
-{"word": "Astute"},
-{"word": "Autonomous"},
-{"word": "Belied"},
-{"word": "Callousness"},
-{"word": "Circumstantial"},
-{"word": "Corroborated"},
-{"word": "Credulity"},
-{"word": "Adroitness"},
-{"word": "Altruism"},
-{"word": "Arbitration"},
-{"word": "Archaic"},
-{"word": "Aural"},
-{"word": "Cognitions"},
-{"word": "Discernment"},
-{"word": "Disingenuous"},
-{"word": "Distension"},
-{"word": "Egotists"},
-{"word": "Emancipators"},
-{"word": "Lament"},
-{"word": "Loquacious"},
-{"word": "Mendicancy"},
-{"word": "Metaphorical"},
-{"word": "Milieu"},
-{"word": "Mitigated"},
-{"word": "Nascent"},
-{"word": "Nostalgia"},
-{"word": "Obtrusive"},
-{"word": "Orthographical"},
-{"word": "Ironic"},
-{"word": "Lament"},
-{"word": "Languid"},
-{"word": "Lassitude"},
-{"word": "Lugubrious"},
-{"word": "Mercurial"},
-{"word": "Misnomer"},
-{"word": "Mollified"},
-{"word": "Multifaceted"},
-{"word": "Mundane"},
-{"word": "Nostalgic"},
-{"word": "Reprehensible"},
-{"word": "Sarcasm"},
-{"word": "Supple"},
-{"word": "Temperamental"},
-{"word": "Transitory"},
-{"word": "Tribulations"},
-{"word": "Unwitting"},
-{"word": "Venality"},
-{"word": "Vulnerable"},
-{"word": "Treacly"},
-{"word": "Vacillated"},
-{"word": "Vindication"},
-{"word": "Vindictive"},
-{"word": "Sophistry"},
-{"word": "Substantiate"},
-{"word": "Subversive"},
-{"word": "Sustain"},
-{"word": "Tenacious"},
-{"word": "Volatile"},
-{"word": "Filial"},
-{"word": "Foreboding"},
-{"word": "Funerary"},
-{"word": "Galvanized"},
-{"word": "Grandiose"},
-{"word": "Haughty"},
-{"word": "Hilarious"},
-{"word": "Hyperbole"},
-{"word": "Impetuous"},
-{"word": "Motley"},
-{"word": "Opting"},
-{"word": "Overhaul"},
-{"word": "Preclude"},
-{"word": "Precursors"},
-{"word": "Purportedly"},
-{"word": "Ratify"},
-{"word": "Resilience"},
-{"word": "Retraction"},
-{"word": "Surfeit"},
-{"word": "Tangential"},
-{"word": "Temper"},
-{"word": "Tremulous"},
-{"word": "Unyielding"},
-{"word": "Vigilant"},
-{"word": "Waning"},
-{"word": "Warped"},
-{"word": "Wary"},
-{"word": "Debilitated"},
-{"word": "Deliberation"},
-{"word": "Denuded"},
-{"word": "Derided"},
-{"word": "Despoiled"},
-{"word": "Dilatory"},
-{"word": "Dispatch"},
-{"word": "Empathetic"},
-{"word": "Enigmas"},
-{"word": "Erudition"},
-{"word": "Exemplars"},
-{"word": "Exonerated"},
-{"word": "Extirpation"},
-{"word": "Fawning"},
-{"word": "Ossified"},
-{"word": "Ostentatious"},
-{"word": "Palpable"},
-{"word": "Pastoral"},
-{"word": "Pedestrian"},
-{"word": "Perfidy"},
-{"word": "Profligacy"},
-{"word": "Prohibitive"},
-{"word": "Prudence"},
-{"word": "Obtrusive"},
-{"word": "Omnipotent"},
-{"word": "Pedagogy"},
-{"word": "Phlegmatic"},
-{"word": "Plausible"},
-{"word": "Precursor"},
-{"word": "Preeminence"},
-{"word": "Pretentious"},
-{"word": "Prognosis"},
-{"word": "Indecipherable"},
-{"word": "Irresolute"},
-{"word": "Sporadic"},
-{"word": "Spurned"},
-{"word": "Substantiated"},
-{"word": "Supplant"},
-{"word": "Truculence"},
-{"word": "Unequivocal"},
-{"word": "Voluminous"},
-{"word": "Winnow"},
-{"word": "Wrath"},
-{"word": "Eradicate"},
-{"word": "Estrangement"},
-{"word": "Expeditious"},
-{"word": "Extant"},
-{"word": "Flag"},
-{"word": "Foundered"},
-{"word": "Fraudulent"},
-{"word": "Hubris"},
-{"word": "Finesse"},
-{"word": "Fitful"},
-{"word": "Gestures"},
-{"word": "Hilarity"},
-{"word": "Husbandry"},
-{"word": "Ignominy"},
-{"word": "Ineptitude"},
-{"word": "Insipid"},
-{"word": "Intuitions"},
-{"word": "Pugnacious"},
-{"word": "Purveyor"},
-{"word": "Resonance"},
-{"word": "Respite"},
-{"word": "Resurgence"},
-{"word": "Sparse"},
-{"word": "Stringent"},
-{"word": "Succumbing"},
-{"word": "Supercilious"},
-{"word": "Prolific"},
-{"word": "Provocative"},
-{"word": "Raiment"},
-{"word": "Reciprocate"},
-{"word": "Reconcile"},
-{"word": "Remiss"},
-{"word": "Levity"},
-{"word": "Loquacious"},
-{"word": "Mediocre"},
-{"word": "Mellifluous"},
-{"word": "Metaphor"},
-{"word": "Miscreants"},
-{"word": "Mitigated"},
-{"word": "Naive"},
-{"word": "Nonchalant"},
-{"word": "Idiosyncratic"},
-{"word": "Impetuosity"},
-{"word": "Impudent"},
-{"word": "Indomitable"},
-{"word": "Innocuous"},
-{"word": "Insolvent"},
-{"word": "Irresolute"},
-{"word": "Irreverent"},
-{"word": "Manipulative"},
-{"word": "Morbidity"},
-{"word": "Myopic"},
-{"word": "Invocation"},
-{"word": "Irony"},
-{"word": "Lackadaisical"},
-{"word": "Lamentable"},
-{"word": "Mandate"},
-{"word": "Manifesto"},
-{"word": "Modicum"},
-{"word": "Tenacity"},
-{"word": "Transcend"},
-{"word": "Variegated"},
-{"word": "Venerable"},
-{"word": "Viable"},
-{"word": "Visceral"},
-{"word": "Remonstrance"},
-{"word": "Resilient"},
-{"word": "Retrenchment"},
-{"word": "Robust"},
-{"word": "Skeptical"},
-{"word": "Skewed"},
-{"word": "Stringent"},
-{"word": "Obliterated"},
-{"word": "Ousted"},
-{"word": "Pacifists"},
-{"word": "Panacea"},
-{"word": "Paradoxically"},
-{"word": "Personification"},
-{"word": "Perusal"},
-{"word": "Occlusion"},
-{"word": "Officious"},
-{"word": "Peevishness"},
-{"word": "Placid"},
-{"word": "Prudent"},
-{"word": "Punctilious"},
-{"word": "Rambunctious"},
-{"word": "Notoriety"},
-{"word": "Obsequious"},
-{"word": "Opulence"},
-{"word": "Pathos"},
-{"word": "Plaudits"},
-{"word": "Prospectus"},
-{"word": "Raze"},
-{"word": "Subtle"},
-{"word": "Succinct"},
-{"word": "Sundry"},
-{"word": "Sustenance"},
-{"word": "Tenable"},
-{"word": "Tenuous"},
-{"word": "Torrid"},
-{"word": "Placid"},
-{"word": "Presumptuous"},
-{"word": "Profiteer"},
-{"word": "Propagandist"},
-{"word": "Proximity"},
-{"word": "Qualification"},
-{"word": "Reconcile"},
-{"word": "Rancor"},
-{"word": "Scrutinize"},
-{"word": "Scuttled"},
-{"word": "Sedate"},
-{"word": "Serene"},
-{"word": "Squander"},
-{"word": "Validated"},
-{"word": "Rectitude"},
-{"word": "Reprimanded"},
-{"word": "Rudimentary"},
-{"word": "Sarcasm"},
-{"word": "Soporific"},
-{"word": "Stipulated"},
-{"word": "Tactile"},
-{"word": "Undermine"},
-{"word": "Underscore"},
-{"word": "Unequivocal"},
-{"word": "Vector"},
-{"word": "Verbose"},
-{"word": "Whimsical"},
-{"word": "Wistful"},
-{"word": "Respite"},
-{"word": "Reticent"},
-{"word": "Reverential"},
-{"word": "Revisionists"},
-{"word": "Sanctimonious"},
-{"word": "Stoic"},
-{"word": "Symbiotic"},
-{"word": "Valor"},
-{"word": "Vulnerable"},
-{"word": "Tenacity"},
-{"word": "Versatility"},
-{"word": "Vicarious"},
-{"word": "Syncopated"},
-{"word": "Tacit"},
-{"word": "Taunted"},
-{"word": "Temperate"},
-{"word": "Understatement"},
-{"word": "Unqualified"},
-{"word": "Unrelenting"},
-{"word": "Unwarranted"},
-{"word": "Watershed"}]
+(lp1
+(dp2
+S'word'
+p3
+VAccolade
+p4
+sS'def'
+p5
+Vpraise
+p6
+sa(dp7
+g3
+VAllusion
+p8
+sg5
+Vindirect reference
+p9
+sa(dp10
+g3
+VAmbivalence
+p11
+sg5
+Vuncertainty; having 'mixed' feelings
+p12
+sa(dp13
+g3
+VAmbivalent
+p14
+sg5
+Vunable to decide
+p15
+sa(dp16
+g3
+VAnalogy
+p17
+sg5
+Vcomparison
+p18
+sa(dp19
+g3
+VAnecdote
+p20
+sg5
+Vshort account of something interesting; story
+p21
+sa(dp22
+g3
+VAnomalous
+p23
+sg5
+Vodd; not fitting the pattern
+p24
+sa(dp25
+g3
+VApparition
+p26
+sg5
+Vghost; something that 'appears'
+p27
+sa(dp28
+g3
+VAspersion
+p29
+sg5
+Vnegative feeling; damaging remark
+p30
+sa(dp31
+g3
+VBelligerence
+p32
+sg5
+Vaggression
+p33
+sa(dp34
+g3
+VBombastic
+p35
+sg5
+Vtoo elaborate; exaggerated
+p36
+sa(dp37
+g3
+VCandid
+p38
+sg5
+Vtruthful
+p39
+sa(dp40
+g3
+VCapricious
+p41
+sg5
+Vchangeable; fickle
+p42
+sa(dp43
+g3
+VCherished
+p44
+sg5
+Vcared for; firmly-held
+p45
+sa(dp46
+g3
+VCliche
+p47
+sg5
+Vover-used expression
+p48
+sa(dp49
+g3
+VConception
+p50
+sg5
+V1. idea; view. 2. beginning of pregnancy
+p51
+sa(dp52
+g3
+VConvoluted
+p53
+sg5
+Vcomplicated or long-winded
+p54
+sa(dp55
+g3
+VCredence
+p56
+sg5
+Vbelief
+p57
+sa(dp58
+g3
+VCryptic
+p59
+sg5
+Vhidden
+p60
+sa(dp61
+g3
+VCurrency
+p62
+sg5
+V1. widespread acceptance, 2. money
+p63
+sa(dp64
+g3
+VDecorous
+p65
+sg5
+Vgood and correct (used of behavior)
+p66
+sa(dp67
+g3
+VDenunciation
+p68
+sg5
+Vact of speaking out against
+p69
+sa(dp70
+g3
+VDerailed
+p71
+sg5
+Vthrown off course
+p72
+sa(dp73
+g3
+VDerivative
+p74
+sg5
+Vunoriginal
+p75
+sa(dp76
+g3
+VDespotic
+p77
+sg5
+Vacting like a tyrant
+p78
+sa(dp79
+g3
+VDetritus
+p80
+sg5
+Vrubbish
+p81
+sa(dp82
+g3
+VDiaphanous
+p83
+sg5
+Vvery thin and transparent
+p84
+sa(dp85
+g3
+VDictum
+p86
+sg5
+Voften-used saying
+p87
+sa(dp88
+g3
+VDilettante
+p89
+sg5
+Vperson who dabbles in the arts
+p90
+sa(dp91
+g3
+VDisdained
+p92
+sg5
+Vshowed contempt for
+p93
+sa(dp94
+g3
+VDispassionate
+p95
+sg5
+Vunbiased; fair
+p96
+sa(dp97
+g3
+VDowager
+p98
+sg5
+Van elderly woman of elevate social status
+p99
+sa(dp100
+g3
+VDubious
+p101
+sg5
+Vdoubtful
+p102
+sa(dp103
+g3
+VEgalitarian
+p104
+sg5
+Vequal; believer in equality
+p105
+sa(dp106
+g3
+VElicit
+p107
+sg5
+Vdraw out (used mainly for information or feelings)
+p108
+sa(dp109
+g3
+VElliptical
+p110
+sg5
+V1. shaped like an ellipse, 2. indirect
+p111
+sa(dp112
+g3
+VEpitomizes
+p113
+sg5
+Vacts as a typical example of
+p114
+sa(dp115
+g3
+VEquivocate
+p116
+sg5
+Vspeak ambiguously/vaguely
+p117
+sa(dp118
+g3
+VEvasiveness
+p119
+sg5
+Vtrying to avoid something
+p120
+sa(dp121
+g3
+VExplicitly
+p122
+sg5
+Vvery clear; nothing hidden
+p123
+sa(dp124
+g3
+VForaging
+p125
+sg5
+Vsearching for food
+p126
+sa(dp127
+g3
+VHypothetical
+p128
+sg5
+Vbased on guesswork; not proven
+p129
+sa(dp130
+g3
+VIconoclast
+p131
+sg5
+Vperson who goes against accepted authority
+p132
+sa(dp133
+g3
+VIdiosyncratic
+p134
+sg5
+Vquirky; unique to an individual
+p135
+sa(dp136
+g3
+VImponderable
+p137
+sg5
+Vcannot be understood
+p138
+sa(dp139
+g3
+VIndecorous
+p140
+sg5
+Vnot well-behaved; lacking in dignity
+p141
+sa(dp142
+g3
+VIndigence
+p143
+sg5
+Vextreme poverty
+p144
+sa(dp145
+g3
+VInept
+p146
+sg5
+Vclumsy
+p147
+sa(dp148
+g3
+VInherent
+p149
+sg5
+Vinbuilt; genetic
+p150
+sa(dp151
+g3
+VIntricate
+p152
+sg5
+Vcomplicated
+p153
+sa(dp154
+g3
+VIrrefutable
+p155
+sg5
+Vcannot be proved wrong
+p156
+sa(dp157
+g3
+VJingoism
+p158
+sg5
+Vusing words to stir up exaggerated patriotism
+p159
+sa(dp160
+g3
+VJubilant
+p161
+sg5
+Vjoyful
+p162
+sa(dp163
+g3
+VJudicious
+p164
+sg5
+Vfair and equal
+p165
+sa(dp166
+g3
+VLament
+p167
+sg5
+Vexpress regret over something
+p168
+sa(dp169
+g3
+VLoquacious
+p170
+sg5
+Vtalkative; using too many words
+p171
+sa(dp172
+g3
+VMendicancy
+p173
+sg5
+Vbegging
+p174
+sa(dp175
+g3
+VMetaphorical
+p176
+sg5
+Vnot literal; figurative
+p177
+sa(dp178
+g3
+VMilieu
+p179
+sg5
+Venvironment; surroundings
+p180
+sa(dp181
+g3
+VMitigated
+p182
+sg5
+Vmade less severe
+p183
+sa(dp184
+g3
+VNascent
+p185
+sg5
+Vjust begun; in an early stage of development
+p186
+sa(dp187
+g3
+VNostalgia
+p188
+sg5
+Vlonging for the past
+p189
+sa(dp190
+g3
+VObtrusive
+p191
+sg5
+Veasily seen
+p192
+sa(dp193
+g3
+VOrthographical
+p194
+sg5
+Vconcerned with writing and spelling
+p195
+sa(dp196
+g3
+VOssified
+p197
+sg5
+Vbecome fixed and rigid
+p198
+sa(dp199
+g3
+VOstentatious
+p200
+sg5
+Vshowy
+p201
+sa(dp202
+g3
+VPalpable
+p203
+sg5
+Vcan be felt
+p204
+sa(dp205
+g3
+VPastoral
+p206
+sg5
+V1. concerned with the countryside, 2. concerned with the care a pastor gives to someone
+p207
+sa(dp208
+g3
+VPedestrian
+p209
+sg5
+V1. boring (adj), 2. person who walks (n)
+p210
+sa(dp211
+g3
+VPerfidy
+p212
+sg5
+Vtreachery; betrayal
+p213
+sa(dp214
+g3
+VProfligacy
+p215
+sg5
+Vwasteful and immoral behavior
+p216
+sa(dp217
+g3
+VProhibitive
+p218
+sg5
+Vvery expensive
+p219
+sa(dp220
+g3
+VPrudence
+p221
+sg5
+Vwisdom; caution
+p222
+sa(dp223
+g3
+VPugnacious
+p224
+sg5
+Vaggressive
+p225
+sa(dp226
+g3
+VPurveyor
+p227
+sg5
+Vone who sells something or causes something to spread
+p228
+sa(dp229
+g3
+VResonance
+p230
+sg5
+Vecho
+p231
+sa(dp232
+g3
+VRespite
+p233
+sg5
+Vbreak (from work etc.)
+p234
+sa(dp235
+g3
+VResurgence
+p236
+sg5
+Vrevival
+p237
+sa(dp238
+g3
+VSparse
+p239
+sg5
+Vthin; not thick
+p240
+sa(dp241
+g3
+VStringent
+p242
+sg5
+Vstrict
+p243
+sa(dp244
+g3
+VSuccumbing
+p245
+sg5
+Vgiving in to; falling under the influence of
+p246
+sa(dp247
+g3
+VSupercilious
+p248
+sg5
+Varrogant
+p249
+sa(dp250
+g3
+VTenacity
+p251
+sg5
+Vfirmness of purpose
+p252
+sa(dp253
+g3
+VTranscend
+p254
+sg5
+Vgo beyond a limit
+p255
+sa(dp256
+g3
+VVariegated
+p257
+sg5
+Vmulticolored
+p258
+sa(dp259
+g3
+VVenerable
+p260
+sg5
+Vworthy of respect
+p261
+sa(dp262
+g3
+VViable
+p263
+sg5
+Vworkable; able to live or grow
+p264
+sa(dp265
+g3
+VVisceral
+p266
+sg5
+Vconcerned with the 'guts'; physical rather than mental
+p267
+sa(dp268
+g3
+VAmbivalent
+p269
+sg5
+Vundecided; having 'mixed' feelings
+p270
+sa(dp271
+g3
+VApathy
+p272
+sg5
+Vlack of energy or interest
+p273
+sa(dp274
+g3
+VAutonomy
+p275
+sg5
+Vself-government
+p276
+sa(dp277
+g3
+VBenevolent
+p278
+sg5
+Vkindly
+p279
+sa(dp280
+g3
+VBlanched
+p281
+sg5
+Vturned pale
+p282
+sa(dp283
+g3
+VBolster
+p284
+sg5
+Vgive support to
+p285
+sa(dp286
+g3
+VBucolic
+p287
+sg5
+Vconcerned with the countryside and farming
+p288
+sa(dp289
+g3
+VCallous
+p290
+sg5
+Vcruel and unfeeling
+p291
+sa(dp292
+g3
+VCantankerous
+p293
+sg5
+Vbad tempered
+p294
+sa(dp295
+g3
+VCapricious
+p296
+sg5
+Vchangeable; fickle
+p297
+sa(dp298
+g3
+VChicanery
+p299
+sg5
+Vtrickery; attempt to deceive
+p300
+sa(dp301
+g3
+VChurlish
+p302
+sg5
+Vill-mannered
+p303
+sa(dp304
+g3
+VCohesive
+p305
+sg5
+Vforming a whole; 'sticking' together
+p306
+sa(dp307
+g3
+VConcur
+p308
+sg5
+Vagree
+p309
+sa(dp310
+g3
+VCryptic
+p311
+sg5
+Vhidden; obscure
+p312
+sa(dp313
+g3
+VDecimation
+p314
+sg5
+Vextensive destruction
+p315
+sa(dp316
+g3
+VDeft
+p317
+sg5
+Vskilful
+p318
+sa(dp319
+g3
+VDelinquency
+p320
+sg5
+Vwrong-doing
+p321
+sa(dp322
+g3
+VDepravity
+p323
+sg5
+Vmoral corruption
+p324
+sa(dp325
+g3
+VDesolate
+p326
+sg5
+Vlonely; devoid of life; feeling very sad and hopeless
+p327
+sa(dp328
+g3
+VDevoid of
+p329
+sg5
+Vempty of
+p330
+sa(dp331
+g3
+VDidactic
+p332
+sg5
+Vintending to teach or give instructions
+p333
+sa(dp334
+g3
+VDisingenuous
+p335
+sg5
+Vcrafty
+p336
+sa(dp337
+g3
+VDispassionate
+p338
+sg5
+Vunbiased
+p339
+sa(dp340
+g3
+VDisposition
+p341
+sg5
+Vtendency; personality
+p342
+sa(dp343
+g3
+VDissent
+p344
+sg5
+Vdisagreement
+p345
+sa(dp346
+g3
+VEffusive
+p347
+sg5
+Voverly expressive of emotions; 'gushing'
+p348
+sa(dp349
+g3
+VEndorse
+p350
+sg5
+Vsupport
+p351
+sa(dp352
+g3
+VEnigma
+p353
+sg5
+Vpuzzle
+p354
+sa(dp355
+g3
+VEnumerate
+p356
+sg5
+Vcount out; list
+p357
+sa(dp358
+g3
+VEphemeral
+p359
+sg5
+Vshort-lived
+p360
+sa(dp361
+g3
+VErroneous
+p362
+sg5
+Vwrong
+p363
+sa(dp364
+g3
+VErudition
+p365
+sg5
+Vgreat knowledge or learning
+p366
+sa(dp367
+g3
+VEsoteric
+p368
+sg5
+Vobscure
+p369
+sa(dp370
+g3
+VFabrication
+p371
+sg5
+Vsomething made up; untrue
+p372
+sa(dp373
+g3
+VFacetious
+p374
+sg5
+Vcheeky; not to be taken seriously
+p375
+sa(dp376
+g3
+VFactions
+p377
+sg5
+Vsides in a dispute; groups with common interests
+p378
+sa(dp379
+g3
+VFlotsam
+p380
+sg5
+Vfloating rubbish
+p381
+sa(dp382
+g3
+VFostered
+p383
+sg5
+Vencouraged
+p384
+sa(dp385
+g3
+VHackneyed
+p386
+sg5
+Vstale and over-used
+p387
+sa(dp388
+g3
+VHarbored
+p389
+sg5
+Vheld [as in 'harbored and idea']
+p390
+sa(dp391
+g3
+VHodgepodge
+p392
+sg5
+Vstrange mixture
+p393
+sa(dp394
+g3
+VHypothetical
+p395
+sg5
+Vnot proven; based on guesswork
+p396
+sa(dp397
+g3
+VImpetuous
+p398
+sg5
+Vimpulsive
+p399
+sa(dp400
+g3
+VImplacable
+p401
+sg5
+Vcannot be appeased; relentless
+p402
+sa(dp403
+g3
+VImpugned
+p404
+sg5
+Vchallenged; attacked in words
+p405
+sa(dp406
+g3
+VIncorrigible
+p407
+sg5
+Vcannot be corrected (of behavior)
+p408
+sa(dp409
+g3
+VIndigenous
+p410
+sg5
+Vnative to a particular place
+p411
+sa(dp412
+g3
+VIneffable
+p413
+sg5
+Vcannot be expressed in words
+p414
+sa(dp415
+g3
+VIrascible
+p416
+sg5
+Veasily angered
+p417
+sa(dp418
+g3
+VIronic
+p419
+sg5
+Vunexpected
+p420
+sa(dp421
+g3
+VLament
+p422
+sg5
+Vexpress regret
+p423
+sa(dp424
+g3
+VLanguid
+p425
+sg5
+Vhaving no energy or interest
+p426
+sa(dp427
+g3
+VLassitude
+p428
+sg5
+Vlack of energy
+p429
+sa(dp430
+g3
+VLugubrious
+p431
+sg5
+Vmournful; very sad
+p432
+sa(dp433
+g3
+VMercurial
+p434
+sg5
+Vrapidly changing
+p435
+sa(dp436
+g3
+VMisnomer
+p437
+sg5
+Vwrong name for something
+p438
+sa(dp439
+g3
+VMollified
+p440
+sg5
+Vcalmed; pacified
+p441
+sa(dp442
+g3
+VMultifaceted
+p443
+sg5
+Vhaving many aspects
+p444
+sa(dp445
+g3
+VMundane
+p446
+sg5
+Vdull; ordinary
+p447
+sa(dp448
+g3
+VNostalgic
+p449
+sg5
+Vlonging for the past
+p450
+sa(dp451
+g3
+VObtrusive
+p452
+sg5
+Veasily seen; 'sticking out'
+p453
+sa(dp454
+g3
+VOmnipotent
+p455
+sg5
+Vall powerful
+p456
+sa(dp457
+g3
+VPedagogy
+p458
+sg5
+Vscience of teaching
+p459
+sa(dp460
+g3
+VPhlegmatic
+p461
+sg5
+Vcalm
+p462
+sa(dp463
+g3
+VPlausible
+p464
+sg5
+Vbelievable
+p465
+sa(dp466
+g3
+VPrecursor
+p467
+sg5
+Vfore-runner; earlier version
+p468
+sa(dp469
+g3
+VPreeminence
+p470
+sg5
+Vfame; top position
+p471
+sa(dp472
+g3
+VPretentious
+p473
+sg5
+Vputting on an act
+p474
+sa(dp475
+g3
+VPrognosis
+p476
+sg5
+Voutlook
+p477
+sa(dp478
+g3
+VProlific
+p479
+sg5
+Vproducing a lot
+p480
+sa(dp481
+g3
+VProvocative
+p482
+sg5
+Vprovoking
+p483
+sa(dp484
+g3
+VRaiment
+p485
+sg5
+Vclothes; garments
+p486
+sa(dp487
+g3
+VReciprocate
+p488
+sg5
+Vpay back
+p489
+sa(dp490
+g3
+VReconcile
+p491
+sg5
+Vbring disputing side together again
+p492
+sa(dp493
+g3
+VRemiss
+p494
+sg5
+Vwrong
+p495
+sa(dp496
+g3
+VRemonstrance
+p497
+sg5
+Vcriticism
+p498
+sa(dp499
+g3
+VResilient
+p500
+sg5
+Vable to spring back; strong
+p501
+sa(dp502
+g3
+VRetrenchment
+p503
+sg5
+Vreducing staff or forces; conserving resources
+p504
+sa(dp505
+g3
+VRobust
+p506
+sg5
+Vfirm and strong
+p507
+sa(dp508
+g3
+VSkeptical
+p509
+sg5
+Vdoubtful
+p510
+sa(dp511
+g3
+VSkewed
+p512
+sg5
+Vdistorted; bent
+p513
+sa(dp514
+g3
+VStringent
+p515
+sg5
+Vstrict
+p516
+sa(dp517
+g3
+VSubtle
+p518
+sg5
+Vnot obvious
+p519
+sa(dp520
+g3
+VSuccinct
+p521
+sg5
+Vclear, short and well-expressed
+p522
+sa(dp523
+g3
+VSundry
+p524
+sg5
+Vmiscellaneous
+p525
+sa(dp526
+g3
+VSustenance
+p527
+sg5
+Vsupport; food
+p528
+sa(dp529
+g3
+VTenable
+p530
+sg5
+Vcan be held (of an opinion, for example)
+p531
+sa(dp532
+g3
+VTenuous
+p533
+sg5
+Vshaky; not firm
+p534
+sa(dp535
+g3
+VTorrid
+p536
+sg5
+Vhot and steamy
+p537
+sa(dp538
+g3
+VUndermine
+p539
+sg5
+Vattempt to overthrow; weaken
+p540
+sa(dp541
+g3
+VUnderscore
+p542
+sg5
+Vemphasize
+p543
+sa(dp544
+g3
+VUnequivocal
+p545
+sg5
+Vclear; cannot be misunderstood
+p546
+sa(dp547
+g3
+VVector
+p548
+sg5
+Vcarrier (of disease, for example)
+p549
+sa(dp550
+g3
+VVerbose
+p551
+sg5
+Vwordy
+p552
+sa(dp553
+g3
+VWhimsical
+p554
+sg5
+Vfickle; changeable
+p555
+sa(dp556
+g3
+VWistful
+p557
+sg5
+Vfull of sadness and longing
+p558
+sa(dp559
+g3
+VAbashed
+p560
+sg5
+Vashamed or sorry
+p561
+sa(dp562
+g3
+VAllusion
+p563
+sg5
+Vindirect reference
+p564
+sa(dp565
+g3
+VAmbivalent
+p566
+sg5
+Vundecided; unclear
+p567
+sa(dp568
+g3
+VAnalogy
+p569
+sg5
+Vcomparison
+p570
+sa(dp571
+g3
+VAnecdote
+p572
+sg5
+Vshort account/story
+p573
+sa(dp574
+g3
+VAnnihilated
+p575
+sg5
+Vwiped out
+p576
+sa(dp577
+g3
+VAnomalies
+p578
+sg5
+Voddities; things that don't fit the pattern
+p579
+sa(dp580
+g3
+VAntipodes
+p581
+sg5
+Vplaces on opposite sides of the globe
+p582
+sa(dp583
+g3
+VApprehension
+p584
+sg5
+Vworry; nervousness
+p585
+sa(dp586
+g3
+VArduous
+p587
+sg5
+Vhard and difficult
+p588
+sa(dp589
+g3
+VArticulate
+p590
+sg5
+V(adj.) able to express something well in words
+p591
+sa(dp592
+g3
+VAssuage
+p593
+sg5
+Vto make less
+p594
+sa(dp595
+g3
+VAuspicious
+p596
+sg5
+Vfortunate; indicative of a successful outcome
+p597
+sa(dp598
+g3
+VAvuncular
+p599
+sg5
+Vacting like an uncle; kindly
+p600
+sa(dp601
+g3
+VAxiom
+p602
+sg5
+Vsomething that is taken to be true; basic idea that can't be questioned
+p603
+sa(dp604
+g3
+VBanal
+p605
+sg5
+Vdull; unoriginal
+p606
+sa(dp607
+g3
+VBellicose
+p608
+sg5
+Vaggressive
+p609
+sa(dp610
+g3
+VBenign
+p611
+sg5
+Vkindly
+p612
+sa(dp613
+g3
+VBereft of
+p614
+sg5
+Vwithout; deprived of
+p615
+sa(dp616
+g3
+VBifurcation
+p617
+sg5
+Vdivision into two
+p618
+sa(dp619
+g3
+VBlatantly
+p620
+sg5
+Vobviously
+p621
+sa(dp622
+g3
+VCacophonous
+p623
+sg5
+Vvery noisy; unpleasant sounding
+p624
+sa(dp625
+g3
+VCantankerous
+p626
+sg5
+Virritable and difficult to please
+p627
+sa(dp628
+g3
+VCaptivating
+p629
+sg5
+Vfascinating
+p630
+sa(dp631
+g3
+VChided
+p632
+sg5
+Vscolded
+p633
+sa(dp634
+g3
+VClairvoyant
+p635
+sg5
+Vable to see into the future/another dimension
+p636
+sa(dp637
+g3
+VCoddled
+p638
+sg5
+Vover-protected; kept warm
+p639
+sa(dp640
+g3
+VComely
+p641
+sg5
+Vattractive
+p642
+sa(dp643
+g3
+VComplacent
+p644
+sg5
+Vsmug; over-confident
+p645
+sa(dp646
+g3
+VConducive to
+p647
+sg5
+Vsuitable for; leading to
+p648
+sa(dp649
+g3
+VConvivial
+p650
+sg5
+Vsociable and friendly
+p651
+sa(dp652
+g3
+VCornucopia
+p653
+sg5
+Vliterally a horn filled with fruits etc; symbol of plenty
+p654
+sa(dp655
+g3
+VCosmopolitan
+p656
+sg5
+Vcomposed of varied nationalities
+p657
+sa(dp658
+g3
+VCounterfeiter
+p659
+sg5
+Vfaker; someone who makes fake money, for example
+p660
+sa(dp661
+g3
+VDecipher
+p662
+sg5
+Vdecode; work out meaning
+p663
+sa(dp664
+g3
+VDeferential
+p665
+sg5
+Vshowing respect
+p666
+sa(dp667
+g3
+VDeterrent
+p668
+sg5
+Vsomething that puts one off; a preventive
+p669
+sa(dp670
+g3
+VDichotomies
+p671
+sg5
+Vdivisions into two parts
+p672
+sa(dp673
+g3
+VDiffident
+p674
+sg5
+Vshy; hesitant
+p675
+sa(dp676
+g3
+VDigression
+p677
+sg5
+Vgoing off the point
+p678
+sa(dp679
+g3
+VDiscriminating
+p680
+sg5
+V1. able to make fine distinctions between; having good taste, 2. favoring one side/group and acting against another
+p681
+sa(dp682
+g3
+VDocile
+p683
+sg5
+Vplacid; easily lead
+p684
+sa(dp685
+g3
+VElite
+p686
+sg5
+Vthe upper levels in a society; the privileged ones
+p687
+sa(dp688
+g3
+VEquitable
+p689
+sg5
+Vfair and equal
+p690
+sa(dp691
+g3
+VEquivocal
+p692
+sg5
+Vambiguous; something that can be interpreted in more than one way
+p693
+sa(dp694
+g3
+VExhilarating
+p695
+sg5
+Vexciting
+p696
+sa(dp697
+g3
+VFathom
+p698
+sg5
+V1. (v) work out; understand, 2. (n) measure of depth
+p699
+sa(dp700
+g3
+VFervent
+p701
+sg5
+Vpassionate
+p702
+sa(dp703
+g3
+VFilial
+p704
+sg5
+Vconcerned with the relationship between child and parent
+p705
+sa(dp706
+g3
+VForeboding
+p707
+sg5
+Vsense of doom
+p708
+sa(dp709
+g3
+VFunerary
+p710
+sg5
+Vconcerned with funerals
+p711
+sa(dp712
+g3
+VGalvanized
+p713
+sg5
+V1. stirred into action; stimulated, 2. coated with zinc
+p714
+sa(dp715
+g3
+VGrandiose
+p716
+sg5
+Vexaggerated; too great; on a grand scale
+p717
+sa(dp718
+g3
+VHaughty
+p719
+sg5
+Varrogant
+p720
+sa(dp721
+g3
+VHilarious
+p722
+sg5
+Vvery funny
+p723
+sa(dp724
+g3
+VHyperbole
+p725
+sg5
+Vover-exaggeration
+p726
+sa(dp727
+g3
+VImpetuous
+p728
+sg5
+Vimpulsive
+p729
+sa(dp730
+g3
+VIndecipherable
+p731
+sg5
+Vcannot be decoded; cannot be worked out
+p732
+sa(dp733
+g3
+VIrresolute
+p734
+sg5
+Vlacking firmness; inability to decide or commit
+p735
+sa(dp736
+g3
+VLevity
+p737
+sg5
+Vlack of seriousness; humor
+p738
+sa(dp739
+g3
+VLoquacious
+p740
+sg5
+Vtalkative
+p741
+sa(dp742
+g3
+VMediocre
+p743
+sg5
+Vaverage
+p744
+sa(dp745
+g3
+VMellifluous
+p746
+sg5
+Vpleasant-sounding
+p747
+sa(dp748
+g3
+VMetaphor
+p749
+sg5
+Vfigurative speech; using implied comparisons
+p750
+sa(dp751
+g3
+VMiscreants
+p752
+sg5
+Vwrong-doers
+p753
+sa(dp754
+g3
+VMitigated
+p755
+sg5
+Vmade less severe
+p756
+sa(dp757
+g3
+VNaive
+p758
+sg5
+Vunsophisticated; simple and inexperienced
+p759
+sa(dp760
+g3
+VNonchalant
+p761
+sg5
+Vassuming an appearance of not caring; indifferent
+p762
+sa(dp763
+g3
+VObliterated
+p764
+sg5
+Vwiped out
+p765
+sa(dp766
+g3
+VOusted
+p767
+sg5
+Vpushed out of a position
+p768
+sa(dp769
+g3
+VPacifists
+p770
+sg5
+Vpeople who oppose war
+p771
+sa(dp772
+g3
+VPanacea
+p773
+sg5
+Vremedy for all ills
+p774
+sa(dp775
+g3
+VParadoxically
+p776
+sg5
+Vcounter to what one would think; contradictory
+p777
+sa(dp778
+g3
+VPersonification
+p779
+sg5
+V1. attributing human qualities to something non-human, 2. acting as an example of
+p780
+sa(dp781
+g3
+VPerusal
+p782
+sg5
+Vcareful reading
+p783
+sa(dp784
+g3
+VPlacid
+p785
+sg5
+Vcalm and peaceful
+p786
+sa(dp787
+g3
+VPresumptuous
+p788
+sg5
+Vassuming too much; arrogant
+p789
+sa(dp790
+g3
+VProfiteer
+p791
+sg5
+Vsomeone who seeks to make unjustified profits
+p792
+sa(dp793
+g3
+VPropagandist
+p794
+sg5
+Vsomeone who spreads ideas
+p795
+sa(dp796
+g3
+VProximity
+p797
+sg5
+Vcloseness
+p798
+sa(dp799
+g3
+VQualification
+p800
+sg5
+Vsomething added to modify an opinion
+p801
+sa(dp802
+g3
+VReconcile
+p803
+sg5
+Vbring disputing sides together; overcome bad feeling
+p804
+sa(dp805
+g3
+VRespite
+p806
+sg5
+Vbreak from work etc.
+p807
+sa(dp808
+g3
+VReticent
+p809
+sg5
+Vshy; unwilling to reveal information
+p810
+sa(dp811
+g3
+VReverential
+p812
+sg5
+Vshowing respect
+p813
+sa(dp814
+g3
+VRevisionists
+p815
+sg5
+Vpeople who revise; anti-revolutionaries
+p816
+sa(dp817
+g3
+VSanctimonious
+p818
+sg5
+Vhypocritically holy; making a pretense of religious feeling
+p819
+sa(dp820
+g3
+VStoic
+p821
+sg5
+Vbrave; able to tolerate whatever life throws at you
+p822
+sa(dp823
+g3
+VSymbiotic
+p824
+sg5
+Vmutually advantageous; close relationship
+p825
+sa(dp826
+g3
+VSyncopated
+p827
+sg5
+Vwith strongly accented rhythm
+p828
+sa(dp829
+g3
+VTacit
+p830
+sg5
+Vunspoken; understood even thought not expressed in words
+p831
+sa(dp832
+g3
+VTaunted
+p833
+sg5
+Vteased; mocked
+p834
+sa(dp835
+g3
+VTemperate
+p836
+sg5
+Vmild; moderate
+p837
+sa(dp838
+g3
+VUnderstatement
+p839
+sg5
+Vmaking something seem less important than it is
+p840
+sa(dp841
+g3
+VUnqualified
+p842
+sg5
+Vwithout hesitation; complete and total
+p843
+sa(dp844
+g3
+VUnrelenting
+p845
+sg5
+Vnever giving up; non-stop
+p846
+sa(dp847
+g3
+VUnwarranted
+p848
+sg5
+Vunjustified
+p849
+sa(dp850
+g3
+VWatershed
+p851
+sg5
+V1. area between two river basins, 2. turning point
+p852
+sa(dp853
+g3
+VAdvocate
+p854
+sg5
+Vsupport
+p855
+sa(dp856
+g3
+VAmbiguous
+p857
+sg5
+Vvague
+p858
+sa(dp859
+g3
+VAnimosity
+p860
+sg5
+Vhostility; hatred
+p861
+sa(dp862
+g3
+VBoorishness
+p863
+sg5
+Vrudeness; ill-mannered behavior
+p864
+sa(dp865
+g3
+VCensure
+p866
+sg5
+Vblame; criticize
+p867
+sa(dp868
+g3
+VConcord
+p869
+sg5
+Vagreement
+p870
+sa(dp871
+g3
+VConflagration
+p872
+sg5
+Vbig fire
+p873
+sa(dp874
+g3
+VConsecrated
+p875
+sg5
+Vdedicated; made holy
+p876
+sa(dp877
+g3
+VConsummate
+p878
+sg5
+Vsupremely good
+p879
+sa(dp880
+g3
+VContagious
+p881
+sg5
+Vpassed on through touch; infectious
+p882
+sa(dp883
+g3
+VCursory
+p884
+sg5
+Vsuperficial
+p885
+sa(dp886
+g3
+VDalliance
+p887
+sg5
+Vnon-serious involvement; toying or playing with something
+p888
+sa(dp889
+g3
+VDeleterious
+p890
+sg5
+Vharmful
+p891
+sa(dp892
+g3
+VDisparaging
+p893
+sg5
+Vcritical
+p894
+sa(dp895
+g3
+VDubious
+p896
+sg5
+Vdoubtful
+p897
+sa(dp898
+g3
+VEquitable
+p899
+sg5
+Vfair and equal
+p900
+sa(dp901
+g3
+VEulogy
+p902
+sg5
+Vpraise
+p903
+sa(dp904
+g3
+VFastidious
+p905
+sg5
+Vvery fussy; excessively concerned (esp. about cleanliness)
+p906
+sa(dp907
+g3
+VFidelity
+p908
+sg5
+Vfaithfulness; loyalty
+p909
+sa(dp910
+g3
+VFormidable
+p911
+sg5
+Vinspiring awe
+p912
+sa(dp913
+g3
+VFutile
+p914
+sg5
+Vuseless; waste of time and effort
+p915
+sa(dp916
+g3
+VFutility
+p917
+sg5
+Vuselessness
+p918
+sa(dp919
+g3
+VHolistic
+p920
+sg5
+Vwhole; entire (Holistic viewpoint = seeing things as a whole)
+p921
+sa(dp922
+g3
+VIdiosyncratic
+p923
+sg5
+Vquirky; eccentric; unique to an individual
+p924
+sa(dp925
+g3
+VIneffable
+p926
+sg5
+Vcan’t be expressed in words
+p927
+sa(dp928
+g3
+VInfelicity
+p929
+sg5
+Vunsuitability; inappropriateness
+p930
+sa(dp931
+g3
+VIntegrity
+p932
+sg5
+Vhonor; honesty
+p933
+sa(dp934
+g3
+VIntermittent
+p935
+sg5
+Von and off; not continuous
+p936
+sa(dp937
+g3
+VJudicious
+p938
+sg5
+Vfair; wise
+p939
+sa(dp940
+g3
+VLegitimate
+p941
+sg5
+Vto make legal; give approval to
+p942
+sa(dp943
+g3
+VMercenary
+p944
+sg5
+Vseeking money above all else
+p945
+sa(dp946
+g3
+VMeticulous
+p947
+sg5
+Vthorough; taking care of details
+p948
+sa(dp949
+g3
+VPetulant
+p950
+sg5
+Vsulky
+p951
+sa(dp952
+g3
+VPolarized
+p953
+sg5
+Vdivided into two extremes
+p954
+sa(dp955
+g3
+VPragmatism
+p956
+sg5
+Vpracticality
+p957
+sa(dp958
+g3
+VPresumptive
+p959
+sg5
+Vpresumed
+p960
+sa(dp961
+g3
+VPropensity
+p962
+sg5
+Vtendency; leaning’ predilection
+p963
+sa(dp964
+g3
+VProsaic
+p965
+sg5
+Vordinary
+p966
+sa(dp967
+g3
+VQuelled
+p968
+sg5
+Vsuppressed
+p969
+sa(dp970
+g3
+VRegressive
+p971
+sg5
+Vmoving backwards (literal or metaphoric)
+p972
+sa(dp973
+g3
+VRemiss
+p974
+sg5
+Vneglectful
+p975
+sa(dp976
+g3
+VRhetoric
+p977
+sg5
+Vpersuasive language
+p978
+sa(dp979
+g3
+VSedulous
+p980
+sg5
+Vthorough; eager
+p981
+sa(dp982
+g3
+VSermonized
+p983
+sg5
+Vgave moral lecture
+p984
+sa(dp985
+g3
+VShroud
+p986
+sg5
+V1. a cover for dead body, 2. to cover
+p987
+sa(dp988
+g3
+VSteadfastness
+p989
+sg5
+Vloyalty; firmness of purpose
+p990
+sa(dp991
+g3
+VTemporize
+p992
+sg5
+Vput off; procrastinate
+p993
+sa(dp994
+g3
+VTreacly
+p995
+sg5
+Vtoo sweet; over sentimental
+p996
+sa(dp997
+g3
+VVacillated
+p998
+sg5
+Vwavered; hesitated
+p999
+sa(dp1000
+g3
+VVindication
+p1001
+sg5
+Vproving right
+p1002
+sa(dp1003
+g3
+VVindictive
+p1004
+sg5
+Vseeking revenge
+p1005
+sa(dp1006
+g3
+VAbstruse
+p1007
+sg5
+Vdifficult to comprehend
+p1008
+sa(dp1009
+g3
+VAcumen
+p1010
+sg5
+Vsharpness of mind
+p1011
+sa(dp1012
+g3
+VAdroit
+p1013
+sg5
+Vskilful / skillful
+p1014
+sa(dp1015
+g3
+VAnachronistic
+p1016
+sg5
+Vout of normal time range
+p1017
+sa(dp1018
+g3
+VArcane
+p1019
+sg5
+Vobscure; known only to few people
+p1020
+sa(dp1021
+g3
+VAutonomy
+p1022
+sg5
+Vself-government
+p1023
+sa(dp1024
+g3
+VBelittlers
+p1025
+sg5
+Vpeople who criticize/disparage
+p1026
+sa(dp1027
+g3
+VByzantine
+p1028
+sg5
+Vexcessive; decadent
+p1029
+sa(dp1030
+g3
+VConsecration
+p1031
+sg5
+Vdedication
+p1032
+sa(dp1033
+g3
+VCorollary
+p1034
+sg5
+Vconsequence; inference
+p1035
+sa(dp1036
+g3
+VCurtail
+p1037
+sg5
+Vcut short
+p1038
+sa(dp1039
+g3
+VDebunkers
+p1040
+sg5
+Vpeople who expose/throw out old ideas
+p1041
+sa(dp1042
+g3
+VDevious
+p1043
+sg5
+Vcunning
+p1044
+sa(dp1045
+g3
+VDidactic
+p1046
+sg5
+Vintending to preach or teach
+p1047
+sa(dp1048
+g3
+VEffacement
+p1049
+sg5
+Vwiping out; (self-effacement = excessive modesty)
+p1050
+sa(dp1051
+g3
+VEgotistical
+p1052
+sg5
+Vselfish
+p1053
+sa(dp1054
+g3
+VEmbodiment
+p1055
+sg5
+Vliving example of
+p1056
+sa(dp1057
+g3
+VEpitome
+p1058
+sg5
+Vessence; typical example or symbol of
+p1059
+sa(dp1060
+g3
+VEsoteric
+p1061
+sg5
+Vobscure
+p1062
+sa(dp1063
+g3
+VExtrapolated
+p1064
+sg5
+Vpredicted on the basis of existing data; extended
+p1065
+sa(dp1066
+g3
+VFoster
+p1067
+sg5
+Vencourage
+p1068
+sa(dp1069
+g3
+VInane
+p1070
+sg5
+Vsilly
+p1071
+sa(dp1072
+g3
+VIncoherence
+p1073
+sg5
+Vlack of clarity
+p1074
+sa(dp1075
+g3
+VInconspicuous
+p1076
+sg5
+Vnot easily seen
+p1077
+sa(dp1078
+g3
+VIndiscriminate
+p1079
+sg5
+Vwithout thought; random; careless
+p1080
+sa(dp1081
+g3
+VIngenuous
+p1082
+sg5
+Vnaïve
+p1083
+sa(dp1084
+g3
+VInsolence
+p1085
+sg5
+Vlack of respect; rudeness
+p1086
+sa(dp1087
+g3
+VInsurrectionists
+p1088
+sg5
+Vrebels
+p1089
+sa(dp1090
+g3
+VIntemperance
+p1091
+sg5
+Vlack of moderation
+p1092
+sa(dp1093
+g3
+VIrreverence
+p1094
+sg5
+Vlack of respect
+p1095
+sa(dp1096
+g3
+VJeopardize
+p1097
+sg5
+Vput at risk
+p1098
+sa(dp1099
+g3
+VLackadaisical
+p1100
+sg5
+Vlazy; careless; lax
+p1101
+sa(dp1102
+g3
+VLucid
+p1103
+sg5
+Vclear
+p1104
+sa(dp1105
+g3
+VMagnanimity
+p1106
+sg5
+Vgenerosity (of spirit)
+p1107
+sa(dp1108
+g3
+VMultifarious
+p1109
+sg5
+Vhaving many aspects
+p1110
+sa(dp1111
+g3
+VNefarious
+p1112
+sg5
+Vinfamous
+p1113
+sa(dp1114
+g3
+VOnerous
+p1115
+sg5
+Vburdensome
+p1116
+sa(dp1117
+g3
+VOpportunism
+p1118
+sg5
+Vgrabbing opportunities; seeking unprincipled advantage
+p1119
+sa(dp1120
+g3
+VOrnate
+p1121
+sg5
+Vhighly decorated
+p1122
+sa(dp1123
+g3
+VPrecursor
+p1124
+sg5
+Vforerunner
+p1125
+sa(dp1126
+g3
+VProponents
+p1127
+sg5
+Vsupporters
+p1128
+sa(dp1129
+g3
+VResolute
+p1130
+sg5
+Vfirm of purpose
+p1131
+sa(dp1132
+g3
+VSanctity
+p1133
+sg5
+Vholiness
+p1134
+sa(dp1135
+g3
+VSeditious
+p1136
+sg5
+Vcausing division or rebellion
+p1137
+sa(dp1138
+g3
+VSlipshod
+p1139
+sg5
+Vcareless; untidy
+p1140
+sa(dp1141
+g3
+VSolicitousness
+p1142
+sg5
+Vexpressing care/concern
+p1143
+sa(dp1144
+g3
+VSophistry
+p1145
+sg5
+Vdevious logic
+p1146
+sa(dp1147
+g3
+VSubstantiate
+p1148
+sg5
+Vgive supporting evidence
+p1149
+sa(dp1150
+g3
+VSubversive
+p1151
+sg5
+Vintending to overthrow
+p1152
+sa(dp1153
+g3
+VSustain
+p1154
+sg5
+Vsupport
+p1155
+sa(dp1156
+g3
+VTenacious
+p1157
+sg5
+Vholding firmly to idea or purpose
+p1158
+sa(dp1159
+g3
+VVolatile
+p1160
+sg5
+V1. evaporates easily, 2. easily angered; emotional
+p1161
+sa(dp1162
+g3
+VAdroit
+p1163
+sg5
+Vskilful / skillful (Maladroit = clumsy)
+p1164
+sa(dp1165
+g3
+VAgnostic
+p1166
+sg5
+Vunsure of the existence of god
+p1167
+sa(dp1168
+g3
+VAmeliorating
+p1169
+sg5
+Vmaking better
+p1170
+sa(dp1171
+g3
+VArboreal
+p1172
+sg5
+Vliving in trees
+p1173
+sa(dp1174
+g3
+VAscertain
+p1175
+sg5
+Vfind out; make sure
+p1176
+sa(dp1177
+g3
+VBarrage
+p1178
+sg5
+Vbombardment; stream (of abuse etc.)
+p1179
+sa(dp1180
+g3
+VBelabor
+p1181
+sg5
+Vover-emphasizing
+p1182
+sa(dp1183
+g3
+VBrevity
+p1184
+sg5
+Vbriefness
+p1185
+sa(dp1186
+g3
+VCacophony
+p1187
+sg5
+Vnoise; din
+p1188
+sa(dp1189
+g3
+VCensured
+p1190
+sg5
+Vblamed
+p1191
+sa(dp1192
+g3
+VCircumvent
+p1193
+sg5
+Vavoid
+p1194
+sa(dp1195
+g3
+VCoerced
+p1196
+sg5
+Vforced
+p1197
+sa(dp1198
+g3
+VCondoning
+p1199
+sg5
+Vtolerating
+p1200
+sa(dp1201
+g3
+VCongenial
+p1202
+sg5
+Vfriendly; sociable; suitable
+p1203
+sa(dp1204
+g3
+VDemagogues
+p1205
+sg5
+Vmob leaders; agitators
+p1206
+sa(dp1207
+g3
+VDisparaged
+p1208
+sg5
+Vcriticized
+p1209
+sa(dp1210
+g3
+VDocile
+p1211
+sg5
+Vtame; subservient
+p1212
+sa(dp1213
+g3
+VEclectic
+p1214
+sg5
+Vtaking things from different sources
+p1215
+sa(dp1216
+g3
+VElitist
+p1217
+sg5
+Vfavoring top group; snob
+p1218
+sa(dp1219
+g3
+VElusive
+p1220
+sg5
+Vdifficult to pin down
+p1221
+sa(dp1222
+g3
+VEmpiric
+p1223
+sg5
+Vfound by experiment/practice
+p1224
+sa(dp1225
+g3
+VEndorsed
+p1226
+sg5
+Vsupported
+p1227
+sa(dp1228
+g3
+VEnvisioning
+p1229
+sg5
+Vimagining, predicting
+p1230
+sa(dp1231
+g3
+VExtolled
+p1232
+sg5
+Vpraised
+p1233
+sa(dp1234
+g3
+VFoster
+p1235
+sg5
+Vsupport; encourage
+p1236
+sa(dp1237
+g3
+VFurtiveness
+p1238
+sg5
+Vsecretiveness
+p1239
+sa(dp1240
+g3
+VGluttonous
+p1241
+sg5
+Vgreedy
+p1242
+sa(dp1243
+g3
+VIndictment
+p1244
+sg5
+Vcharge; legal accusation
+p1245
+sa(dp1246
+g3
+VIndigenous
+p1247
+sg5
+Vnative to a locality
+p1248
+sa(dp1249
+g3
+VIrreproachable
+p1250
+sg5
+Vcannot be criticized. (Reproach = criticize)
+p1251
+sa(dp1252
+g3
+VKnack
+p1253
+sg5
+Vtrick; skill
+p1254
+sa(dp1255
+g3
+VLibelous
+p1256
+sg5
+Vopen to prosecution for libel (Libel = written slander)
+p1257
+sa(dp1258
+g3
+VNaiveté
+p1259
+sg5
+Vinnocence; lack of worldliness
+p1260
+sa(dp1261
+g3
+VNihilism
+p1262
+sg5
+Vbelief in nothing; anarchy
+p1263
+sa(dp1264
+g3
+VPaucity
+p1265
+sg5
+Vshortage
+p1266
+sa(dp1267
+g3
+VPenchant
+p1268
+sg5
+Vtendency; leaning toward
+p1269
+sa(dp1270
+g3
+VPerquisites
+p1271
+sg5
+V‘perks’
+p1272
+sa(dp1273
+g3
+VPhobic
+p1274
+sg5
+Vfearful
+p1275
+sa(dp1276
+g3
+VPilfer
+p1277
+sg5
+Vsteal
+p1278
+sa(dp1279
+g3
+VPliant
+p1280
+sg5
+Vflexible
+p1281
+sa(dp1282
+g3
+VPredilection
+p1283
+sg5
+Vliking for; penchant
+p1284
+sa(dp1285
+g3
+VPresumption
+p1286
+sg5
+Vassuming too much
+p1287
+sa(dp1288
+g3
+VProfundity
+p1289
+sg5
+Vdepth (of ideas)
+p1290
+sa(dp1291
+g3
+VQuixotic
+p1292
+sg5
+Videalistic; impractical
+p1293
+sa(dp1294
+g3
+VReclusive
+p1295
+sg5
+Vavoiding other people; solitary
+p1296
+sa(dp1297
+g3
+VRehash
+p1298
+sg5
+Vrevamp hurriedly/carelessly
+p1299
+sa(dp1300
+g3
+VRepertoire
+p1301
+sg5
+Vrange; set of skills
+p1302
+sa(dp1303
+g3
+VRepertory
+p1304
+sg5
+Vstory; stock; repertoire
+p1305
+sa(dp1306
+g3
+VReprehensible
+p1307
+sg5
+Vvery bad
+p1308
+sa(dp1309
+g3
+VSarcasm
+p1310
+sg5
+Vsneering, bitter remarks; ironic or taunting
+p1311
+sa(dp1312
+g3
+VSupple
+p1313
+sg5
+Vflexible; pliant; lithe
+p1314
+sa(dp1315
+g3
+VTemperamental
+p1316
+sg5
+Vvolatile; changeable
+p1317
+sa(dp1318
+g3
+VTransitory
+p1319
+sg5
+Vshot-lived
+p1320
+sa(dp1321
+g3
+VTribulations
+p1322
+sg5
+Vtroubles
+p1323
+sa(dp1324
+g3
+VUnwitting
+p1325
+sg5
+Vnot deliberate
+p1326
+sa(dp1327
+g3
+VVenality
+p1328
+sg5
+Vcorruption
+p1329
+sa(dp1330
+g3
+VVulnerable
+p1331
+sg5
+Vopen to attack; susceptible
+p1332
+sa(dp1333
+g3
+VAberration
+p1334
+sg5
+Vdeviation; abnormality
+p1335
+sa(dp1336
+g3
+VAbstruse
+p1337
+sg5
+Vdifficult to comprehend
+p1338
+sa(dp1339
+g3
+VAffability
+p1340
+sg5
+Vfriendliness; cordiality
+p1341
+sa(dp1342
+g3
+VAffluence
+p1343
+sg5
+Vwealth and status
+p1344
+sa(dp1345
+g3
+VAlleviation
+p1346
+sg5
+Vmaking less severe
+p1347
+sa(dp1348
+g3
+VAmalgamation
+p1349
+sg5
+Vmixture or joining of different components
+p1350
+sa(dp1351
+g3
+VAmassed
+p1352
+sg5
+Vaccumulated
+p1353
+sa(dp1354
+g3
+VArcane
+p1355
+sg5
+Vesoteric
+p1356
+sa(dp1357
+g3
+VAugmenting
+p1358
+sg5
+Vincreasing in size or number
+p1359
+sa(dp1360
+g3
+VBelied
+p1361
+sg5
+Vcontradicted
+p1362
+sa(dp1363
+g3
+VBenevolent
+p1364
+sg5
+Vkindly
+p1365
+sa(dp1366
+g3
+VCallous
+p1367
+sg5
+Vcruel and unfeeling
+p1368
+sa(dp1369
+g3
+VCandid
+p1370
+sg5
+Vtruthful; honest
+p1371
+sa(dp1372
+g3
+VCoalition
+p1373
+sg5
+Va union of two parts
+p1374
+sa(dp1375
+g3
+VConcordance
+p1376
+sg5
+Vagreement
+p1377
+sa(dp1378
+g3
+VConflagration
+p1379
+sg5
+Vbig fire
+p1380
+sa(dp1381
+g3
+VCopious
+p1382
+sg5
+Vin large amounts
+p1383
+sa(dp1384
+g3
+VDearth
+p1385
+sg5
+Vshortage
+p1386
+sa(dp1387
+g3
+VDebacle
+p1388
+sg5
+Vdisaster
+p1389
+sa(dp1390
+g3
+VDisarming
+p1391
+sg5
+Vcharming; unthreatening
+p1392
+sa(dp1393
+g3
+VDisillusioned
+p1394
+sg5
+Vfreed from wrong ideas
+p1395
+sa(dp1396
+g3
+VDisparaging
+p1397
+sg5
+Vcriticizing
+p1398
+sa(dp1399
+g3
+VEmbellished
+p1400
+sg5
+Vdecorated
+p1401
+sa(dp1402
+g3
+VEmpathetic
+p1403
+sg5
+Vunderstanding in an insightful way
+p1404
+sa(dp1405
+g3
+VEncompassed
+p1406
+sg5
+Vincluded; surrounded
+p1407
+sa(dp1408
+g3
+VEndorsement
+p1409
+sg5
+Vsupport; approval
+p1410
+sa(dp1411
+g3
+VEntourage
+p1412
+sg5
+Vgroup of followers; retinue
+p1413
+sa(dp1414
+g3
+VEquanimity
+p1415
+sg5
+Vpeace of mind; balance; calm
+p1416
+sa(dp1417
+g3
+VEradicating
+p1418
+sg5
+Vwiping out; destroying
+p1419
+sa(dp1420
+g3
+VEsoteric
+p1421
+sg5
+Vobscure
+p1422
+sa(dp1423
+g3
+VExacerbated
+p1424
+sg5
+Vmade worse
+p1425
+sa(dp1426
+g3
+VExcised
+p1427
+sg5
+Vcut out
+p1428
+sa(dp1429
+g3
+VExotic
+p1430
+sg5
+Vstrange; foreign
+p1431
+sa(dp1432
+g3
+VFaction
+p1433
+sg5
+Vsection; group with common interests
+p1434
+sa(dp1435
+g3
+VFinagle
+p1436
+sg5
+Vwheedle; wangle; trick
+p1437
+sa(dp1438
+g3
+VGrating
+p1439
+sg5
+Vharsh; rasping
+p1440
+sa(dp1441
+g3
+VGratuitous
+p1442
+sg5
+Vfree; unwarranted
+p1443
+sa(dp1444
+g3
+VHackneyed
+p1445
+sg5
+Vcommonplace; over-used
+p1446
+sa(dp1447
+g3
+VInsightful
+p1448
+sg5
+Vperceptive
+p1449
+sa(dp1450
+g3
+VInsolence
+p1451
+sg5
+Vrudeness
+p1452
+sa(dp1453
+g3
+VIntrigued
+p1454
+sg5
+Vinterested and curious
+p1455
+sa(dp1456
+g3
+VIntuition
+p1457
+sg5
+Vsixth sense; ‘gut feeling’
+p1458
+sa(dp1459
+g3
+VLanguid
+p1460
+sg5
+Vlacking energy; weak
+p1461
+sa(dp1462
+g3
+VLobby
+p1463
+sg5
+V1. to try to persuade, 2. entrance hall
+p1464
+sa(dp1465
+g3
+VLucid
+p1466
+sg5
+Vclear
+p1467
+sa(dp1468
+g3
+VMarred
+p1469
+sg5
+Vspoiled; ruined
+p1470
+sa(dp1471
+g3
+VMeager
+p1472
+sg5
+Vsmall; scanty
+p1473
+sa(dp1474
+g3
+VMonotonous
+p1475
+sg5
+Vdull; repetitive
+p1476
+sa(dp1477
+g3
+VMotley
+p1478
+sg5
+Vvaried; miscellaneous
+p1479
+sa(dp1480
+g3
+VOpting
+p1481
+sg5
+Vchoosing
+p1482
+sa(dp1483
+g3
+VOverhaul
+p1484
+sg5
+Vrenovate
+p1485
+sa(dp1486
+g3
+VPreclude
+p1487
+sg5
+Vprevent
+p1488
+sa(dp1489
+g3
+VPrecursors
+p1490
+sg5
+Vforerunners
+p1491
+sa(dp1492
+g3
+VPurportedly
+p1493
+sg5
+Vapparently claiming
+p1494
+sa(dp1495
+g3
+VRatify
+p1496
+sg5
+Vgive official approval to
+p1497
+sa(dp1498
+g3
+VResilience
+p1499
+sg5
+Vstrength; ability to withstand
+p1500
+sa(dp1501
+g3
+VRetraction
+p1502
+sg5
+Vremoval; ‘taking back’
+p1503
+sa(dp1504
+g3
+VSporadic
+p1505
+sg5
+Vintermittent; on and off
+p1506
+sa(dp1507
+g3
+VSpurned
+p1508
+sg5
+Vshunned; rejected
+p1509
+sa(dp1510
+g3
+VSubstantiated
+p1511
+sg5
+Vbacked up; given supporting evidence
+p1512
+sa(dp1513
+g3
+VSupplant
+p1514
+sg5
+Vreplace
+p1515
+sa(dp1516
+g3
+VTruculence
+p1517
+sg5
+Vstubbornness
+p1518
+sa(dp1519
+g3
+VUnequivocal
+p1520
+sg5
+Vcertain; cannot be disputed
+p1521
+sa(dp1522
+g3
+VVoluminous
+p1523
+sg5
+Vlarge; bulky; extensive
+p1524
+sa(dp1525
+g3
+VWinnow
+p1526
+sg5
+Vsift; separate good from bad
+p1527
+sa(dp1528
+g3
+VAlacrity
+p1529
+sg5
+Vspeed and eagerness
+p1530
+sa(dp1531
+g3
+VAmiable
+p1532
+sg5
+Vfriendly; lovable
+p1533
+sa(dp1534
+g3
+VApathetic
+p1535
+sg5
+Vlacking energy or interest
+p1536
+sa(dp1537
+g3
+VBypasses
+p1538
+sg5
+Vavoids; finds a way around
+p1539
+sa(dp1540
+g3
+VCapricious
+p1541
+sg5
+Vwhimsical; changeable
+p1542
+sa(dp1543
+g3
+VCensures
+p1544
+sg5
+Vblames
+p1545
+sa(dp1546
+g3
+VConciliatory
+p1547
+sg5
+Vseeking compromise
+p1548
+sa(dp1549
+g3
+VConvergence
+p1550
+sg5
+Vcoming together
+p1551
+sa(dp1552
+g3
+VCumulative
+p1553
+sg5
+Vbuilding up
+p1554
+sa(dp1555
+g3
+VDeferment
+p1556
+sg5
+Vputting off
+p1557
+sa(dp1558
+g3
+VDeliberation
+p1559
+sg5
+Vcareful thought
+p1560
+sa(dp1561
+g3
+VDelineates
+p1562
+sg5
+Voutlines
+p1563
+sa(dp1564
+g3
+VDerelict
+p1565
+sg5
+Vrundown; abandoned
+p1566
+sa(dp1567
+g3
+VDiscrepancy
+p1568
+sg5
+Vinconsistency
+p1569
+sa(dp1570
+g3
+VEmbittered
+p1571
+sg5
+Vfull of bitter feelings
+p1572
+sa(dp1573
+g3
+VEncroaching
+p1574
+sg5
+Vtrespassing
+p1575
+sa(dp1576
+g3
+VEradicate
+p1577
+sg5
+Vwipe out
+p1578
+sa(dp1579
+g3
+VExacerbates
+p1580
+sg5
+Vmakes worse
+p1581
+sa(dp1582
+g3
+VExasperation
+p1583
+sg5
+Vfrustration and annoyance
+p1584
+sa(dp1585
+g3
+VExorbitant
+p1586
+sg5
+Vexcessive
+p1587
+sa(dp1588
+g3
+VFlabbergasted
+p1589
+sg5
+Vshocked; speechless
+p1590
+sa(dp1591
+g3
+VFoil for
+p1592
+sg5
+Vperson that shows another to advantage
+p1593
+sa(dp1594
+g3
+VFrugal
+p1595
+sg5
+Veconomical
+p1596
+sa(dp1597
+g3
+VGlacial
+p1598
+sg5
+Vicy; unfriendly
+p1599
+sa(dp1600
+g3
+VGrimy
+p1601
+sg5
+Vdirty
+p1602
+sa(dp1603
+g3
+VInconsequential
+p1604
+sg5
+Vunimportant
+p1605
+sa(dp1606
+g3
+VIndiscernible
+p1607
+sg5
+Vnot easy to see
+p1608
+sa(dp1609
+g3
+VInfusion
+p1610
+sg5
+Vinflux
+p1611
+sa(dp1612
+g3
+VIntegrity
+p1613
+sg5
+Vhonesty
+p1614
+sa(dp1615
+g3
+VJaded
+p1616
+sg5
+Vtired; bored
+p1617
+sa(dp1618
+g3
+VJuxtaposition
+p1619
+sg5
+Vplacing two thing nest to each other
+p1620
+sa(dp1621
+g3
+VLithe
+p1622
+sg5
+Vflexible
+p1623
+sa(dp1624
+g3
+VMiffed
+p1625
+sg5
+Vannoyed
+p1626
+sa(dp1627
+g3
+VMitigator
+p1628
+sg5
+V moderator
+p1629
+sa(dp1630
+g3
+VModicum
+p1631
+sg5
+Vtiny amount
+p1632
+sa(dp1633
+g3
+VNegate
+p1634
+sg5
+Vwipe out
+p1635
+sa(dp1636
+g3
+VNondescript
+p1637
+sg5
+Vhaving no special qualities; ordinary
+p1638
+sa(dp1639
+g3
+VPenurious
+p1640
+sg5
+Vmiserly
+p1641
+sa(dp1642
+g3
+VPhlegmatic
+p1643
+sg5
+Vcalm; imperturbable
+p1644
+sa(dp1645
+g3
+VRazing
+p1646
+sg5
+Vcutting down
+p1647
+sa(dp1648
+g3
+VRecrimination
+p1649
+sg5
+V blame
+p1650
+sa(dp1651
+g3
+VReprieve
+p1652
+sg5
+Vlet off (at least temporarily)
+p1653
+sa(dp1654
+g3
+VRousing
+p1655
+sg5
+Vstirring
+p1656
+sa(dp1657
+g3
+VSalvageable
+p1658
+sg5
+Vcan be saved
+p1659
+sa(dp1660
+g3
+VScouring
+p1661
+sg5
+Vcleaning thoroughly; thorough searching
+p1662
+sa(dp1663
+g3
+VSecluded
+p1664
+sg5
+Vlonely; isolated
+p1665
+sa(dp1666
+g3
+VSolace
+p1667
+sg5
+Vcomfort
+p1668
+sa(dp1669
+g3
+VSquelch
+p1670
+sg5
+Vsuppress; crush
+p1671
+sa(dp1672
+g3
+VStifling
+p1673
+sg5
+Vsuppressing
+p1674
+sa(dp1675
+g3
+VSurfeit
+p1676
+sg5
+Vexcess
+p1677
+sa(dp1678
+g3
+VTangential
+p1679
+sg5
+Voff the point; irrelevant
+p1680
+sa(dp1681
+g3
+VTemper
+p1682
+sg5
+Vmoderate
+p1683
+sa(dp1684
+g3
+VTremulous
+p1685
+sg5
+Vhesitant
+p1686
+sa(dp1687
+g3
+VUnyielding
+p1688
+sg5
+Vnot giving up
+p1689
+sa(dp1690
+g3
+VVigilant
+p1691
+sg5
+Vwary; watchful
+p1692
+sa(dp1693
+g3
+VWaning
+p1694
+sg5
+Vdeclining
+p1695
+sa(dp1696
+g3
+VWarped
+p1697
+sg5
+Vtwisted; distorted
+p1698
+sa(dp1699
+g3
+VWary
+p1700
+sg5
+Vcautious
+p1701
+sa(dp1702
+g3
+VWrath
+p1703
+sg5
+Vanger
+p1704
+sa(dp1705
+g3
+VAlleviate
+p1706
+sg5
+Vmake less severe
+p1707
+sa(dp1708
+g3
+VAmalgam
+p1709
+sg5
+Vmixture
+p1710
+sa(dp1711
+g3
+VAstute
+p1712
+sg5
+Vwise; mentally sharp
+p1713
+sa(dp1714
+g3
+VAutonomous
+p1715
+sg5
+Vself-governing
+p1716
+sa(dp1717
+g3
+VBelied
+p1718
+sg5
+Vcontradicted
+p1719
+sa(dp1720
+g3
+VCallousness
+p1721
+sg5
+Vcruelty; unfeeling behavior
+p1722
+sa(dp1723
+g3
+VCircumstantial
+p1724
+sg5
+Vaccidental; indirect (as in circumstantial evidence)
+p1725
+sa(dp1726
+g3
+VCorroborated
+p1727
+sg5
+Vsupported; given supporting evidence
+p1728
+sa(dp1729
+g3
+VCredulity
+p1730
+sg5
+Vbelief
+p1731
+sa(dp1732
+g3
+VDebilitated
+p1733
+sg5
+Vweakened
+p1734
+sa(dp1735
+g3
+VDeliberation
+p1736
+sg5
+Vcareful thought
+p1737
+sa(dp1738
+g3
+VDenuded
+p1739
+sg5
+Vstripped
+p1740
+sa(dp1741
+g3
+VDerided
+p1742
+sg5
+Vmocked
+p1743
+sa(dp1744
+g3
+VDespoiled
+p1745
+sg5
+Vspoiled
+p1746
+sa(dp1747
+g3
+VDilatory
+p1748
+sg5
+Vslow; sluggish
+p1749
+sa(dp1750
+g3
+VDispatch
+p1751
+sg5
+Vspeed and eagerness
+p1752
+sa(dp1753
+g3
+VEmpathetic
+p1754
+sg5
+Vexhibiting deep emotional understanding
+p1755
+sa(dp1756
+g3
+VEradicate
+p1757
+sg5
+Vwipe out
+p1758
+sa(dp1759
+g3
+VEstrangement
+p1760
+sg5
+Vseparation
+p1761
+sa(dp1762
+g3
+VExpeditious
+p1763
+sg5
+Vspeedy
+p1764
+sa(dp1765
+g3
+VExtant
+p1766
+sg5
+Vstill in existence
+p1767
+sa(dp1768
+g3
+VFlag
+p1769
+sg5
+V1. to lose energy, 2. to signal
+p1770
+sa(dp1771
+g3
+VFoundered
+p1772
+sg5
+Vsank
+p1773
+sa(dp1774
+g3
+VFraudulent
+p1775
+sg5
+Vcrooked; intending to cheat
+p1776
+sa(dp1777
+g3
+VHubris
+p1778
+sg5
+Vexcessive pride
+p1779
+sa(dp1780
+g3
+VIdiosyncratic
+p1781
+sg5
+Veccentric
+p1782
+sa(dp1783
+g3
+VImpetuosity
+p1784
+sg5
+Vimpulsiveness
+p1785
+sa(dp1786
+g3
+VImpudent
+p1787
+sg5
+Vcheeky
+p1788
+sa(dp1789
+g3
+VIndomitable
+p1790
+sg5
+Vunshakeable; fearless
+p1791
+sa(dp1792
+g3
+VInnocuous
+p1793
+sg5
+Vharmless
+p1794
+sa(dp1795
+g3
+VInsolvent
+p1796
+sg5
+Vbankrupt
+p1797
+sa(dp1798
+g3
+VIrresolute
+p1799
+sg5
+Vlacking firmness of purpose; hesitant
+p1800
+sa(dp1801
+g3
+VIrreverent
+p1802
+sg5
+Vlacking respect
+p1803
+sa(dp1804
+g3
+VManipulative
+p1805
+sg5
+Vdeceptive; skilful at handling people
+p1806
+sa(dp1807
+g3
+VMorbidity
+p1808
+sg5
+Vconcern with death and disease
+p1809
+sa(dp1810
+g3
+VMyopic
+p1811
+sg5
+Vshort-sighted (literal or metaphoric)
+p1812
+sa(dp1813
+g3
+VOcclusion
+p1814
+sg5
+Vshutting out
+p1815
+sa(dp1816
+g3
+VOfficious
+p1817
+sg5
+Vinterfering
+p1818
+sa(dp1819
+g3
+VPeevishness
+p1820
+sg5
+Vchildish sullenness; irritability
+p1821
+sa(dp1822
+g3
+VPlacid
+p1823
+sg5
+Vpeaceful
+p1824
+sa(dp1825
+g3
+VPrudent
+p1826
+sg5
+Vwise; cautious
+p1827
+sa(dp1828
+g3
+VPunctilious
+p1829
+sg5
+Vmeticulous
+p1830
+sa(dp1831
+g3
+VRambunctious
+p1832
+sg5
+Vboisterous
+p1833
+sa(dp1834
+g3
+VRancor
+p1835
+sg5
+Vbitterness and bad feeling
+p1836
+sa(dp1837
+g3
+VScrutinize
+p1838
+sg5
+Vexamine carefully
+p1839
+sa(dp1840
+g3
+VScuttled
+p1841
+sg5
+Vsunk
+p1842
+sa(dp1843
+g3
+VSedate
+p1844
+sg5
+Vcalm; placid
+p1845
+sa(dp1846
+g3
+VSerene
+p1847
+sg5
+Vpeaceful
+p1848
+sa(dp1849
+g3
+VSquander
+p1850
+sg5
+Vwaste
+p1851
+sa(dp1852
+g3
+VValidated
+p1853
+sg5
+Vproved right
+p1854
+sa(dp1855
+g3
+VValor
+p1856
+sg5
+Vbravery
+p1857
+sa(dp1858
+g3
+VVulnerable
+p1859
+sg5
+Vopen to attack; susceptible
+p1860
+sa(dp1861
+g3
+VAdroitness
+p1862
+sg5
+Vskill
+p1863
+sa(dp1864
+g3
+VAltruism
+p1865
+sg5
+Vself-sacrifice
+p1866
+sa(dp1867
+g3
+VArbitration
+p1868
+sg5
+Vmediating between disputing sides
+p1869
+sa(dp1870
+g3
+VArchaic
+p1871
+sg5
+Vold-fashioned
+p1872
+sa(dp1873
+g3
+VAural
+p1874
+sg5
+Vthrough the sense of hearing
+p1875
+sa(dp1876
+g3
+VCognitions
+p1877
+sg5
+Vmental knowledge
+p1878
+sa(dp1879
+g3
+VDiscernment
+p1880
+sg5
+Vjudgment;
+p1881
+sa(dp1882
+g3
+VDisingenuous
+p1883
+sg5
+Vcrafty
+p1884
+sa(dp1885
+g3
+VDistension
+p1886
+sg5
+Vswelling
+p1887
+sa(dp1888
+g3
+VEgotists
+p1889
+sg5
+Vselfish people
+p1890
+sa(dp1891
+g3
+VEmancipators
+p1892
+sg5
+Vthose who set others free
+p1893
+sa(dp1894
+g3
+VEnigmas
+p1895
+sg5
+Vpuzzles
+p1896
+sa(dp1897
+g3
+VErudition
+p1898
+sg5
+Vlearning; scholarly knowledge
+p1899
+sa(dp1900
+g3
+VExemplars
+p1901
+sg5
+Vexcellent examples of
+p1902
+sa(dp1903
+g3
+VExonerated
+p1904
+sg5
+Vproved not guilty
+p1905
+sa(dp1906
+g3
+VExtirpation
+p1907
+sg5
+Vdestruction
+p1908
+sa(dp1909
+g3
+VFawning
+p1910
+sg5
+Vgroveling; ‘sucking up’ to people
+p1911
+sa(dp1912
+g3
+VFinesse
+p1913
+sg5
+Vskill
+p1914
+sa(dp1915
+g3
+VFitful
+p1916
+sg5
+Vintermittent; on and off; not continuous
+p1917
+sa(dp1918
+g3
+VGestures
+p1919
+sg5
+Vsignals
+p1920
+sa(dp1921
+g3
+VHilarity
+p1922
+sg5
+Vgreat laughter
+p1923
+sa(dp1924
+g3
+VHusbandry
+p1925
+sg5
+Vcareful management of resources
+p1926
+sa(dp1927
+g3
+VIgnominy
+p1928
+sg5
+Vshame
+p1929
+sa(dp1930
+g3
+VIneptitude
+p1931
+sg5
+Vlack of ability
+p1932
+sa(dp1933
+g3
+VInsipid
+p1934
+sg5
+Vflavorless; bland
+p1935
+sa(dp1936
+g3
+VIntuitions
+p1937
+sg5
+Vgut feelings
+p1938
+sa(dp1939
+g3
+VInvocation
+p1940
+sg5
+Vprayer
+p1941
+sa(dp1942
+g3
+VIrony
+p1943
+sg5
+Vsomething unexpected; use of words to convey opposite meaning
+p1944
+sa(dp1945
+g3
+VLackadaisical
+p1946
+sg5
+Vlazy
+p1947
+sa(dp1948
+g3
+VLamentable
+p1949
+sg5
+Vregrettable
+p1950
+sa(dp1951
+g3
+VMandate
+p1952
+sg5
+Vpermission
+p1953
+sa(dp1954
+g3
+VManifesto
+p1955
+sg5
+Vstatement of values
+p1956
+sa(dp1957
+g3
+VModicum
+p1958
+sg5
+Vtiny amount
+p1959
+sa(dp1960
+g3
+VNotoriety
+p1961
+sg5
+Vinfamy
+p1962
+sa(dp1963
+g3
+VObsequious
+p1964
+sg5
+Vgroveling
+p1965
+sa(dp1966
+g3
+VOpulence
+p1967
+sg5
+Vlavish display of wealth
+p1968
+sa(dp1969
+g3
+VPathos
+p1970
+sg5
+Vsadness; stirring the emotions
+p1971
+sa(dp1972
+g3
+VPlaudits
+p1973
+sg5
+Vpraise
+p1974
+sa(dp1975
+g3
+VProspectus
+p1976
+sg5
+Vbrochure
+p1977
+sa(dp1978
+g3
+VRaze
+p1979
+sg5
+Vknock down
+p1980
+sa(dp1981
+g3
+VRectitude
+p1982
+sg5
+Vuprightness
+p1983
+sa(dp1984
+g3
+VReprimanded
+p1985
+sg5
+Vscolded
+p1986
+sa(dp1987
+g3
+VRudimentary
+p1988
+sg5
+Velementary; basic
+p1989
+sa(dp1990
+g3
+VSarcasm
+p1991
+sg5
+Vmockery
+p1992
+sa(dp1993
+g3
+VSoporific
+p1994
+sg5
+Vsleep-inducing
+p1995
+sa(dp1996
+g3
+VStipulated
+p1997
+sg5
+Vinsisted
+p1998
+sa(dp1999
+g3
+VTactile
+p2000
+sg5
+Vthrough the sense of touch
+p2001
+sa(dp2002
+g3
+VTenacity
+p2003
+sg5
+Vfirmness of purpose
+p2004
+sa(dp2005
+g3
+VVersatility
+p2006
+sg5
+Vability to do many things
+p2007
+sa(dp2008
+g3
+VVicarious
+p2009
+sg5
+Vexperienced indirectly; at secondhand
+p2010
+sa.
