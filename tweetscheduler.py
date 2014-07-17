@@ -4,8 +4,9 @@ import time
 
 sched = Scheduler()
 bot = TwitterBot()
+bot.send_tweet()
 
-@sched.interval_schedule(minutes=150)
+@sched.interval_schedule(minutes=120)
 def timed_job():
     bot.send_tweet()
 
