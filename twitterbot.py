@@ -53,7 +53,7 @@ class TwitterBot(object):
         
         #setup the msg to TWEET
         msg = word + ": " + a_def
-        msg += "\n" + short_url
+        msg += " " + short_url
         msg += "\n" + "#" + word + " #SAT"
         
         #tweet message
