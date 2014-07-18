@@ -13,7 +13,7 @@ class TwitterBot(object):
 
     def __init__(self):
         #get word list        
-        with open('words.json', 'rb') as fp:
+        with open('words.pickle', 'rb') as fp:
             self.word_list = pickle.load(fp)
 
         #setup constants from environment variables
@@ -48,12 +48,13 @@ class TwitterBot(object):
         a_def = self.word_list[rand_index]['def']
         
         #get shortened url for the definition of the word
-        #word_url = "http://m.dictionary.com/definition/" + word + "?site=dictwap"
-        #short_url = self.shorten_url(word_url, self.access_token)
+        word_url = "http://m.dictionary.com/definition/" + word + "?site=dictwap"
+        short_url = self.shorten_url(word_url, self.access_token)
         
         #setup the msg to TWEET
         msg = word + ": " + a_def
-        msg += "\n" + "#" + word + " #SAT #satprep #satword"
+        msg += "\n" + short_url
+        msg += "\n" + "#" + word + " #SAT"
         
         #tweet message
         twitter = Twython(self.consumer_key, self.consumer_secret, self.token, self.token_secret)
