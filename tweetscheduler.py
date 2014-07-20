@@ -1,9 +1,11 @@
 from apscheduler.scheduler import Scheduler
 from twitterbot import TwitterBot
 import time
+from app_config import AppConfig
 
 sched = Scheduler()
-bot = TwitterBot()
+config = AppConfig()
+bot = TwitterBot(config)
 bot.send_tweet()
 
 @sched.interval_schedule(minutes=120)
@@ -14,4 +16,3 @@ sched.start()
 
 while True:
     time.sleep(1)
-
