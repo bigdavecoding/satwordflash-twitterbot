@@ -30,23 +30,32 @@ class TwitterBot(object):
         word_activity_log = db["word_activity"]
         word_activity_log.insert({"word": word})
 
-    def send_tweet(self):        
-        #get random word from the word list
+    #get random word from the word list
+    def get_random_word(self):
         rand_index = random.randint(0, len(self.word_list))
-        word = self.word_list[rand_index]['word']
+        a_word = self.word_list[rand_index]['word']
         a_def = self.word_list[rand_index]['def']
-        
+        return a_word, a_def
+
+    def get_message(self):
+        a_word, a_def = self.get_random_word()
+
+        #log the word selected
+        self.log_word(a_word)
+
         #get shortened url for the definition of the word
-        word_url = "http://m.dictionary.com/definition/" + word + "?site=dictwap"
+        word_url = "http://m.dictionary.com/definition/" + a_word + "?site=dictwap"
         short_url = self.shorten_url(word_url, self.config.access_token)
-        
+
         #setup the msg to TWEET
-        msg = word + ": " + a_def
+        msg = a_word + ": " + a_def
         msg += " " + short_url
-        msg += "\n" + "#" + word + " #SAT"
-        
-        #tweet message
+        msg += "\n" + "#" + a_word + " #SAT"
+        return msg
+
+    #tweet message
+    def send_tweet(self):
+        msg = self.get_message()
         twitter = Twython(self.config.consumer_key, self.config.consumer_secret, self.config.token, self.config.token_secret)
         twitter.update_status(status=msg)
-        self.log_word(word)
         print(msg)
